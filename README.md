@@ -15,7 +15,7 @@ A multilingual PDF conversion product focused on fast, low-friction document wor
 
 ### Protocols
 
-**[Portable Persistent Goal Protocol (PPGP)](https://github.com/Fatboy-coder/Portable-Persistent-Goal-Protocol-PPGP-)**  
+**[Portable Persistent Goal Protocol (PPGP)](https://github.com/Fatboy-coder/ppgp)**  
 A vendor-neutral continuity protocol for long-running coding agents, with an installable Agent Skill, public specification and citation metadata.
 
 ### Experiments
