@@ -4,6 +4,8 @@
 
 Building useful software. Extracting reusable systems from recurring engineering problems.
 
+Projects and experiments are developed independently and through **13DevLab**.
+
 ## Selected work
 
 ### Products
@@ -13,7 +15,7 @@ A multilingual PDF conversion product focused on fast, low-friction document wor
 
 ### Protocols
 
-**[Portable Persistent Goal Protocol (PPGP)](./ppgp/)**  
+**[Portable Persistent Goal Protocol (PPGP)](https://github.com/Fatboy-coder/Portable-Persistent-Goal-Protocol-PPGP-)**  
 A vendor-neutral continuity protocol for long-running coding agents. PPGP externalizes the minimum durable state needed to recover goals across context loss, interrupted sessions and agent handoffs.
 
 **[Design Engineering Protocol](https://github.com/Fatboy-coder/design-engineering-protocol)**  
@@ -52,6 +54,6 @@ Products create problems. Problems reveal patterns. Patterns that generalize can
 
 ## Engineering
 
-Working mostly across TypeScript, Python, web infrastructure and AI-assisted engineering.
+Working mostly across TypeScript, Python, web infrastructure and human-directed AI-assisted engineering.
 
 *Products over credentials. Systems over stacks. Shipping over signalling.*
