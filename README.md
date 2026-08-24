@@ -16,15 +16,12 @@ A multilingual PDF conversion product focused on fast, low-friction document wor
 ### Protocols
 
 **[Portable Persistent Goal Protocol (PPGP)](https://github.com/Fatboy-coder/Portable-Persistent-Goal-Protocol-PPGP-)**  
-A vendor-neutral continuity protocol for long-running coding agents. PPGP externalizes the minimum durable state needed to recover goals across context loss, interrupted sessions and agent handoffs.
-
-**[Design Engineering Protocol](https://github.com/Fatboy-coder/design-engineering-protocol)**  
-An evidence-based workflow for turning visual references and product observations into consistent, production-ready interfaces for developers and coding agents.
+A vendor-neutral continuity protocol for long-running coding agents, with an installable Agent Skill, public specification and citation metadata.
 
 ### Experiments
 
 **Statecraft Zero**  
-A persistent nation role-play and political simulation exploring long-running world state, institutional systems and emergent player-driven dynamics. Private experiment.
+A private political simulation exploring persistent world state, institutions and emergent player-driven systems.
 
 ## Operating loop
 
